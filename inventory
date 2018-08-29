@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nav>
+<inventories>
+<item>
+<sku>1002492_NOSIZE</sku>
+<location>INGRAM_B2C</location>
+<qty>100</qty>
+</item>
+<item>
+<sku>1002634</sku>
+<location>INGRAM_B2C</location>
+<qty>200</qty>
+</item>
+<item>
+<sku>1002632</sku>
+<location>SWE E-COM</location>
+<qty>250</qty>
+</item>
+</inventories>
+</nav>
